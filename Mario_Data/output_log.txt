@@ -1,0 +1,49 @@
+Initialize engine version: 5.1.2f1 (afd2369b692a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics (ID=0x156)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\pc\Desktop\Mario\Mario_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\pc\Desktop\Mario\Mario_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\pc\Desktop\Mario\Mario_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\pc\Desktop\Mario\Mario_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\pc\Desktop\Mario\Mario_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\pc\Desktop\Mario\Mario_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\pc\Desktop\Mario\Mario_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\pc\Desktop\Mario\Mario_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\pc\Desktop\Mario\Mario_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\pc\Desktop\Mario\Mario_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.320 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\pc\Desktop\Mario\Mario_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\pc\Desktop\Mario\Mario_Data\Managed\System.dll (this message is harmless)
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 71.457977 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 911.
+Total: 12.719035 ms (FindLiveObjects: 0.090088 ms CreateObjectMapping: 0.135703 ms MarkObjects: 12.461313 ms  DeleteObjects: 0.026798 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.070640 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 911.
+Total: 0.496627 ms (FindLiveObjects: 0.086097 ms CreateObjectMapping: 0.033070 ms MarkObjects: 0.361494 ms  DeleteObjects: 0.014824 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 28.954947 ms
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 694.
+Total: 0.485224 ms (FindLiveObjects: 0.063860 ms CreateObjectMapping: 0.019386 ms MarkObjects: 0.370047 ms  DeleteObjects: 0.030219 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.620277 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 694.
+Total: 0.441320 ms (FindLiveObjects: 0.058158 ms CreateObjectMapping: 0.020526 ms MarkObjects: 0.351801 ms  DeleteObjects: 0.009693 ms)
+
